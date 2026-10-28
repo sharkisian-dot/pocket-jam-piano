@@ -1,0 +1,6 @@
+{
+  "name": "Pocket Jam Piano",
+  "description": "Compact left-hand chord progression and right-hand scale visualizer for instant piano jamming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
